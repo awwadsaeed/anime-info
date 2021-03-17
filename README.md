@@ -1,2 +1,3 @@
 # anime-info
-some info on some anime 
+here is the wireframe of the html page  
+![wireframe](https://wireframe.cc/WTkVRH)
