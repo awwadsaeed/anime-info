@@ -38,6 +38,7 @@ body header nav ul li a{
 body main section{
     background-color: #d0af84;
     padding-bottom: 10px;
+    margin-bottom: 10px;
 }
 
 .imageContainer{
