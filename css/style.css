@@ -61,4 +61,8 @@ body footer p{
     vertical-align: middle;
     line-height: 50px;
     color: #ffe6ca;
+    
 }
+div {
+    background: grey;
+  }
